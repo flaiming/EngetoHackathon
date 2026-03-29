@@ -1,6 +1,6 @@
 black==24.10.0
 isort==5.13.2
-iruff==0.8.0
+ruff==0.8.0
 pre_commit==4.0.1
 streamlit==1.40.1
 mortgage==1.0.5
